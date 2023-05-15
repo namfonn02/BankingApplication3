@@ -28,7 +28,7 @@ public class Account {
         return this.name;
     }
 
-    public double fetBalance() {
+    public double getBalance() {
         return this.balance;
     }
 }
